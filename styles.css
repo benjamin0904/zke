@@ -1,5 +1,4 @@
-<!-- 卡片模块开始 -->
-<style>
+/* 卡片模块开始 */
     .hll100 {
         max-width: 1200px;
         margin: 0 auto;
@@ -121,11 +120,9 @@
             margin-bottom: 20px;
         }
     }
-</style>    
- <!-- 卡片模块结束 -->
+/* 卡片模块结束 */
 
- <!-- 探索模块开始 -->
- <style data-jss="">
+/* 探索模块开始 */
 .jss268 {
   width: 1200px;
   margin: 0 auto 0px;
@@ -206,10 +203,8 @@
 .jss279 {
   width: 153px;
 }
-</style>         
- <!-- 探索模块结束 --> 
- <!-- APP模块开始-->
-<style>
+/* 探索模块结束 */
+/* APP模块开始 */
   .hll200 {
     width: 1200px;
     margin: 0 auto;
@@ -333,11 +328,8 @@
     color: #9b9fa8;
     font-weight: 400;
   }
-</style>
-<!-- APP模块结束-->
-<!-- 页尾 开始 -->    
-   <style>
-        /* 页脚容器样式 */
+/* APP模块结束 */  
+/* 页尾模块开始 */
         .yyw100-footer {
             width: 100%;
             max-width: 1200px; /* 限制最大宽度 */
@@ -515,7 +507,5 @@
     padding: 10px 0;
     width: 100%;
 }
-    </style> 
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
- <div class="yyw100-footer">  
-<!-- 页尾 结束 -->
+/* 页尾模块结束 */
+
